@@ -30,6 +30,7 @@ SECRET_KEY = '60d_^0t3^eog=5yti&nmkjalkyq2f=jjin#7%6+gr&eikjv6!7'
 DEBUG = True
 
 ALLOWED_HOSTS = []
+LOGIN_URL = 'rango:login'
 
 
 
